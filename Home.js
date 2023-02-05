@@ -1,4 +1,4 @@
-$w.onReady{function () {
+$w.onReady(function () {
   console.log("Site is ready");
 }
 });
