@@ -14,10 +14,10 @@ We initially created the framework for the website through Figma and then set up
 We changed our layout numerous times. We initially decided to have two pages in our layout. However, we found that the pages felt too congested and full. We eventually decided on 6 pages. Implementing different features also proved difficult due to us coding on Velo for the first time.
 
 ## Accomplishments that we're proud of
-****************
+Our login features as well as the layout for the website took a while to figure out. We are also proud of our whole design of everything.
 
 ## What we learned
-We learned how to code JavaScript through Velo.
+We learned how to code JavaScript through Velo and how to link different functions to different components of the website.
 
 ## What's next for Little Deeds
 Little Deeds could expand to allow groups to compete with other local groups. We could also construct some other way to verify if the user has completed a task or offer different rewards through the point system.
